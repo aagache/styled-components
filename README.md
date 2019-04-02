@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In App.js you can pass `greenTheme` or `blueTheme` in the `theme` parameter, or remove the `<ThemeProvider>` to see the defaut styling of the demo application.
+
 ## Available Scripts
 
 In the project directory, you can run:
